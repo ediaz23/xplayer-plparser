@@ -1,5 +1,4 @@
 usr/include/xplayer-pl-parser/1/plparser/*
 usr/lib/*/lib*.so
 usr/lib/*/pkgconfig/*
-usr/share/gtk-doc
 usr/share/gir-1.0/*
