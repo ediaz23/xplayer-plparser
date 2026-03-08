@@ -1,5 +1,5 @@
-usr/include/*
-usr/lib/lib*.so
-usr/lib/pkgconfig/*
+usr/include/xplayer-pl-parser/1/plparser/*
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig/*
 usr/share/gtk-doc
-usr/share/gir-*
+usr/share/gir-1.0/*
